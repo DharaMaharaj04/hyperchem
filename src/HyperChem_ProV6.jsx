@@ -82,7 +82,7 @@ function TopBar() {
         </nav>
         <MobileMenu />
       </Container>
-      <div className="text-center text-xs md:text-sm py-2" style={{ background: BRAND.navy, color: "#fff" }}>Semiconductor‑grade chemicals & gases. Made in Gujarat.</div>
+      <div className="text-center text-xs md:text-sm py-2" style={{ background: BRAND.navy, color: "#fff" }}>Semiconductor‑grade chemicals & gases. Made in India.</div>
     </header>
   );
 }

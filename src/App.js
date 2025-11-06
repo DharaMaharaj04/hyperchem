@@ -113,7 +113,7 @@ function Home() {
     <section className="grid md:grid-cols-2 gap-10 items-center">
       <div>
         <h1 className="text-4xl md:text-6xl xl:text-7xl font-semibold tracking-tight" style={{color: brand.dark}}>Purity that powers chips.</h1>
-        <p className="mt-6 text-lg text-slate-600 max-w-prose">HyperChem manufactures ultra‑high‑purity acids, solvents and specialty gases for wafer cleaning, etching, thin‑film deposition, and advanced packaging. Designed and made in Gujarat with sustainable, zero‑liquid‑discharge operations.</p>
+        <p className="mt-6 text-lg text-slate-600 max-w-prose">HyperChem manufactures ultra‑high‑purity acids, solvents and specialty gases for wafer cleaning, etching, thin‑film deposition, and advanced packaging. Designed and made in India with sustainable, zero‑liquid‑discharge operations.</p>
         <div className="mt-8 flex gap-3">
           <Link to="/products" className={`${primaryBtn} text-white`} style={{background: `linear-gradient(90deg, ${brand.green}, #a3e635)`}}>Explore products</Link>
           <Link to="/contact" className={`${primaryBtn}`} style={{border: `1px solid ${brand.dark}`, color: brand.dark}}>Talk to sales</Link>
