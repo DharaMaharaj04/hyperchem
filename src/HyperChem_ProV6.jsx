@@ -153,7 +153,7 @@ function Home() {
 function Specs() {
   const rows = [
     ["Applications", "Wafer clean, etch, CMP, thin‑film, solar, packaging"],
-    ["Facility", "50‑acre greenfield, Sanand Industrial Estate (Gujarat)"],
+    ["Facility", "120 acre greenfield plan in Andhra Pradesh"],
     ["Process", "Multi‑stage distillation • Ion‑exchange • Sub‑ppb filtration"],
     ["Safety", "PESO‑compliant • Fire & Safety NOC • Cleanroom protocols"],
   ];
@@ -377,7 +377,7 @@ function Contact() {
       <SectionTitle eyebrow="Contact" title="Let’s collaborate" caption="For product inquiries, vendor onboarding, or partnerships, reach out to our team." />
       <div className="grid md:grid-cols-2 gap-8">
         <AddressCard title="Corporate HQ">A‑610 World Trade Tower, behind Skoda Showroom, Village Makarba, Taluka, Ahmedabad, Gujarat 380054</AddressCard>
-        <AddressCard title="Gujarat Facility (Plant)">Sanand Industrial Estate, Ahmedabad District, Gujarat, India</AddressCard>
+        <AddressCard title="Andhrapradesh Plant">IFFCO SEZ Nellore, Dagadarthi, Andhra Pradesh India </AddressCard>
       </div>
     </section>
   );
